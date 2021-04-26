@@ -565,7 +565,7 @@ case '/help':
 case 'help':
 case 'menu':
 hasil = `        ────────────────
-Hola hermosa*${pushname}* usa este comando ${prefix}menu
+Hola hermosa *${pushname}* usa este comando ${prefix}menu
         ────────────────`
 reply(hasil)
         break
