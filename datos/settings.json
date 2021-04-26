@@ -1,12 +1,12 @@
 
-
+{
 	"prefix": ".",
 	"ownerNumber": "tu numero",
 	"BarBarKey": "YOURAPIKEY",
 	"Vhtearkey": "YOURAPIKEY",
 	"LolHumanKey": "YOURAPIKEY",
         "Vinzapi": "YOURAPIKEY",
-        "Itsmeikyapi": "YOURAPIKEY",
+        "Itsmeikyapi": "YOURAIIKEY",
 	"limit": "20",
   "memberlimit": "1",
   "cr": "Kytzia-Bot",
